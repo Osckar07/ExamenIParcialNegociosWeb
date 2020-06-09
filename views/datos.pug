@@ -1,0 +1,17 @@
+doctype html
+html(lang='es')
+    head   
+        title Datos
+
+    body
+        form(action="" method='POST')
+            label(for="monto") Monto
+            input(type="text" name="monto" id="monto")
+
+            label(for="tiempo") Años
+            input(type="text" name="tiempo" id="tiempo")
+
+            label(for="interes") Tasa de Interes
+            input(type="text" name="interes" id="interes")
+
+                button(type="submit" value="Generar tabla")

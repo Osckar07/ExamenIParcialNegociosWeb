@@ -1,0 +1,28 @@
+{
+  "name": "oscar-benites_examen_iparcial",
+  "version": "1.0.0",
+  "description": "Examen Iparcial NW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osckar07/ExamenIParcialNegociosWeb.git"
+  },
+  "keywords": [
+    "examen",
+    "Iparcial",
+    "negocios",
+    "web"
+  ],
+  "author": "Oscar Benites",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osckar07/ExamenIParcialNegociosWeb/issues"
+  },
+  "homepage": "https://github.com/Osckar07/ExamenIParcialNegociosWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
